@@ -1,0 +1,39 @@
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+node/
+node.zip
+node-v20.11.1-win-x64/
+
+# Next.js
+.next/
+out/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
