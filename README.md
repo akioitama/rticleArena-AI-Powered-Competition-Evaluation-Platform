@@ -1,6 +1,6 @@
 # 🏆 ArticleArena: AI-Powered Competition & Evaluation Platform
 
-**ArticleArena** is a sophisticated full-stack application designed to streamline article competitions. It leverages cutting-edge AI to provide instant, objective scoring and feedback, alongside a premium administrative suite for managing submissions and real-time leaderboards..
+**ArticleArena** is a sophisticated full-stack application designed to streamline article competitions. It leverages cutting-edge AI to provide instant, objective scoring and feedback, alongside a premium administrative suite for managing submissions and real-time leaderboards.
 
 ---
 
